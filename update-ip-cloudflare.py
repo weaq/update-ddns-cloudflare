@@ -5,8 +5,8 @@ import time
 from datetime import datetime
 
 # ================= CONFIG =================
-CF_API_TOKEN = "YOUR_API_TOKEN"   # ใช้ API Token (แนะนำ)
-ZONE_ID = "YOUR_ZONE_ID"
+CF_API_TOKEN = "cfut_TaKl3oq5bTXEc53E4aeAHHXkUJXJlhUjcfGBQb0z0f10e4b3"   # ใช้ API Token 
+ZONE_ID = "YOUR_ZONE_ID" # Zone ID of Domain name in Dashboard Cloudflare
 DOMAIN = "weaq.cc"
 RECORD_NAME = "weaq.cc"   # root domain
 
